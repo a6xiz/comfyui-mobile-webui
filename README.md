@@ -60,3 +60,66 @@ then you should find your main comfyui folder if you dont know where you can fol
 <img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/2562160f-932d-4115-babe-d86672c692c4" />
 
 
+the folder should look like this 
+
+
+<img width="658" height="299" alt="image" src="https://github.com/user-attachments/assets/bf12754f-ebbf-4ab4-96f7-6969c3b04274" />
+
+
+then run the script and a pop up window will show like this 
+
+<img width="1022" height="646" alt="image" src="https://github.com/user-attachments/assets/b24c81a4-ab60-4001-80df-187a860c0f39" />
+
+
+locate the run_nvidia_gpu.bat and double click it
+
+
+<img width="606" height="31" alt="image" src="https://github.com/user-attachments/assets/8f5431f7-2dd1-453d-8d1b-b594a659f9c1" />
+
+
+afte that i should show this 
+
+
+<img width="520" height="520" alt="image" src="https://github.com/user-attachments/assets/4c93bf9e-674a-43b9-bc8c-670ac30d847c" />
+
+
+
+after it finish close it and go to your comfyui folder you will see this file
+
+
+<img width="706" height="346" alt="image" src="https://github.com/user-attachments/assets/3dd3cffd-c6db-4b1a-bcf8-80eae3656d96" />
+
+
+another thing important that will make life easier is address reservation which allow you to control your device ip and stopping it from changing, if not you will need to check what is your pc ip to access the webui on the android browser
+
+
+<img width="1257" height="236" alt="image" src="https://github.com/user-attachments/assets/9976d6a6-febe-41fa-a6fc-73afc1641575" />
+
+
+you need to search for your routermodel or calling someone with experiance to change the setting, its easy to do if you found it it allows your pc to keep the same ip and belive me its needed 
+
+
+
+## THE WEBUI
+
+ you can access the webui on your devices as phones by opening any browser and typing your pc adress (you can find it by typing (ipconfig) in the cmd it will be under the ip4) your adress should\not look like mine which is 192.168.0.106, then in the search box you type only your address the you put : then the port which is 8080 and the search box should look like this http://192.168.0.106:8080/ and click run, if every thing is ok will show you this
+
+
+ <img width="419" height="942" alt="image" src="https://github.com/user-attachments/assets/05c60acf-05fb-4b88-ae67-0d4654db2a1d" />
+
+
+ it have the basic setting for now 
+
+
+ ## disclaimer 2 
+
+
+ im not a coder and i may be slow replayer, i suggest using claude ai or any other ai agents with coding ability to help you fix anything wrong 
+
+
+ ## you can message me if you have proplem
+
+ please if you message me i may take time till i will replay to you
+
+ this is my reddit a fresh account just for this small project https://www.reddit.com/user/Quiet_Risk_8624/
+
