@@ -8,6 +8,10 @@ small project aim to make good and simple lightweight webui for mobile users
 this is ai generated script and i dont own it, run this on your own risk i dont know how to code
 tho everything i previewed the scripts nothing look dangerous and it only localy through the home wifi and  work even with no internet.
 
+## THIS SCRIPT NEED PYTHON
+
+INSTALL PYTHON USIG THIS LINK https://www.python.org/downloads/
+
 ## PRE_RUN (nedded to allow comfyui backend to connect)
 go to your comfyui main path for example mine is ( F:\ComfyUI_windows_portable )
 in the folder there is run_nvidia_gpu.bat or the bat you run most of the time 
@@ -29,9 +33,25 @@ them add  --listen  to the first line and it should be like this
 WITHOUT THIS ARGUMENT IT WONT WORK AT ALL 
 
 
-## INSTALLATION
+## INSTALLATION DEPENDENCIES
 
- first you ned to install the Dependencies using the script in the installing Dependencies folder or click the link ==>
- [Click Here to Download install_deps.py](https://raw.githubusercontent.com/a6xiz/comfyui-mobile-webui/main/installing%20Dependencies/install_deps.py)
+ first you ned to install the Dependencies using the script named install deps.py in the installing Dependencies folder or click the link ==>
+ [Dependencies folder](https://github.com/a6xiz/comfyui-mobile-webui/tree/d1d0e6143a988138f76e2e645dba4e07ff9dcf30/installing%20Dependencies)
 
- then please check if every thing is installed by running the checking script, download it by the link ==>  [Click Here to Download check_deps.py](https://github.com/a6xiz/comfyui-mobile-webui/blob/eb13f69c945676167eed8d8b8f2a63df09d18e80/installing%20Dependencies/check_deps.py)
+ then please check if every thing is installed by running the check deps.py in the same folder, the link ==>  [Dependencies folder](https://github.com/a6xiz/comfyui-mobile-webui/tree/d1d0e6143a988138f76e2e645dba4e07ff9dcf30/installing%20Dependencies)
+
+ ## GENERATING THE SCRIPT FOR THE WEBUI
+
+download the script in this [link](https://www.python.org/downloads/) and run it.
+
+it should open file selecting window
+
+<img width="1022" height="646" alt="image" src="https://github.com/user-attachments/assets/0449f70b-2344-4e6d-b78f-2c9cff2601a4" />
+
+then you should find your main comfyui folder if you dont know where you can follow the images down
+
+<img width="99" height="157" alt="image" src="https://github.com/user-attachments/assets/9bb76d6b-5906-4ed9-9a64-627e292e0b64" />
+
+<img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/2562160f-932d-4115-babe-d86672c692c4" />
+
+
