@@ -14,6 +14,9 @@ INSTALL PYTHON USIG THIS LINK https://www.python.org/downloads/
 
 ## PRE_RUN (needed to allow comfyui backend to connect)
 go to your comfyui main path for example mine is ( F:\ComfyUI_windows_portable )
+
+
+if you dont know where it is i showed method in INSTALLATION DEPENDENCIES section
 in the folder there is run_nvidia_gpu.bat or the bat you run most of the time 
 
 <img width="606" height="31" alt="image" src="https://github.com/user-attachments/assets/8f5431f7-2dd1-453d-8d1b-b594a659f9c1" />
