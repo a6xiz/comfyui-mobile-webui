@@ -31,6 +31,6 @@ WITHOUT THIS ARGUMENT IT WONT WORK AT ALL
 
 ## INSTALLATION
 
- first you ned to install the Dependencies using the script in the installing Dependencies folder or click the link below
+ first you ned to install the Dependencies using the script in the installing Dependencies folder or click the link ==>
  [Click Here to Download install_deps.py](https://raw.githubusercontent.com/a6xiz/comfyui-mobile-webui/main/installing%20Dependencies/install_deps.py)
  
