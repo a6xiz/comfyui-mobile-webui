@@ -46,11 +46,15 @@ download the script in this [link](https://www.python.org/downloads/) and run it
 
 it should open file selecting window
 
+
 <img width="1022" height="646" alt="image" src="https://github.com/user-attachments/assets/0449f70b-2344-4e6d-b78f-2c9cff2601a4" />
+
 
 then you should find your main comfyui folder if you dont know where you can follow the images down
 
+
 <img width="99" height="157" alt="image" src="https://github.com/user-attachments/assets/9bb76d6b-5906-4ed9-9a64-627e292e0b64" />
+
 
 <img width="400" height="517" alt="image" src="https://github.com/user-attachments/assets/2562160f-932d-4115-babe-d86672c692c4" />
 
