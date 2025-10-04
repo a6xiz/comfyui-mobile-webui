@@ -12,7 +12,7 @@ tho everything i previewed the scripts nothing look dangerous and it only localy
 
 INSTALL PYTHON USIG THIS LINK https://www.python.org/downloads/
 
-## PRE_RUN (nedded to allow comfyui backend to connect)
+## PRE_RUN (needed to allow comfyui backend to connect)
 go to your comfyui main path for example mine is ( F:\ComfyUI_windows_portable )
 in the folder there is run_nvidia_gpu.bat or the bat you run most of the time 
 
