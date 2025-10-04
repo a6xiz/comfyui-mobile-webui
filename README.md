@@ -34,4 +34,4 @@ WITHOUT THIS ARGUMENT IT WONT WORK AT ALL
  first you ned to install the Dependencies using the script in the installing Dependencies folder or click the link ==>
  [Click Here to Download install_deps.py](https://raw.githubusercontent.com/a6xiz/comfyui-mobile-webui/main/installing%20Dependencies/install_deps.py)
 
- then please check if every thing is installed by running the checking script, download it by the link ==>  [Click Here to Download install_deps.py](https://github.com/a6xiz/comfyui-mobile-webui/blob/eb13f69c945676167eed8d8b8f2a63df09d18e80/installing%20Dependencies/check_deps.py)
+ then please check if every thing is installed by running the checking script, download it by the link ==>  [Click Here to Download check_deps.py](https://github.com/a6xiz/comfyui-mobile-webui/blob/eb13f69c945676167eed8d8b8f2a63df09d18e80/installing%20Dependencies/check_deps.py)
