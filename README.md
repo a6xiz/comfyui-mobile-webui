@@ -45,7 +45,7 @@ WITHOUT THIS ARGUMENT IT WONT WORK AT ALL
 
  ## GENERATING THE SCRIPT FOR THE WEBUI
 
-download the script in this [link](https://www.python.org/downloads/) and run it.
+download the script in this [link](https://github.com/a6xiz/comfyui-mobile-webui/blob/main/comfyui_setup_gui.py) and run it.
 
 it should open file selecting window
 
