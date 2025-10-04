@@ -23,7 +23,7 @@ in the folder there is run_nvidia_gpu.bat or the bat you run most of the time
 
 *note that dont edit the shortcut but the main .bat file as i said run_nvidia_gpu.bat for example*
 
-click right on  run_nvidia_gpu.bat 
+click right on  run_nvidia_gpu.bat and click edit
 
 and it should opn like this 
 
